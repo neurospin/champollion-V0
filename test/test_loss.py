@@ -38,8 +38,8 @@
 
 import torch
 import numpy as np
-from champollion0.losses import GeneralizedSupervisedNTXenLoss
-from champollion0.utils import logs
+from champollion_V0.losses import GeneralizedSupervisedNTXenLoss
+from champollion_V0.utils import logs
 
 log = logs.set_file_logger(__file__)
 
