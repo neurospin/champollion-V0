@@ -67,3 +67,9 @@ Then, the Grad-CAM heatmaps are obtained running:
     python3 evaluation/supervised_pipeline.py
 
 And can be visualised in : contrastive/notebooks/julien/plot_grad_cam.ipynb
+
+## Decoder Architecture
+
+The architecture of the decoder (file `convnet.py`) is described in the following figure: 
+
+![Decoder Architecture](model_parameters.png)
