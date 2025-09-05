@@ -76,4 +76,4 @@ The architecture of the decoder (file ``convnet.py``) is described in the follow
 .. image:: model_parameters.png
    :alt: Decoder Architecture
    :align: center
-   :width: 1200px
+   :width: 1500px
