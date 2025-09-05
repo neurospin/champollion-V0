@@ -68,8 +68,12 @@ Then, the Grad-CAM heatmaps are obtained running:
 
 And can be visualised in : contrastive/notebooks/julien/plot_grad_cam.ipynb
 
-## Decoder Architecture
+Decoder Architecture
+====================
 
-The architecture of the decoder (file `convnet.py`) is described in the following figure: 
+The architecture of the decoder (file ``convnet.py``) is described in the following figure:
 
-![Decoder Architecture](model_parameters.png)
+.. image:: model_parameters.png
+   :alt: Decoder Architecture
+   :align: center
+   :width: 400px
